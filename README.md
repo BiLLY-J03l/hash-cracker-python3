@@ -7,7 +7,7 @@ Hash cracker with python3
 
 1-
 
-    git clone https://github.com/BiLLY-J03l/simple-keylogger.git
+    git clone https://github.com/BiLLY-J03l/hash-cracker.git
 
 2-
 
