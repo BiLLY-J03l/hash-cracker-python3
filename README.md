@@ -5,14 +5,14 @@ Hash cracker with python3
 
 - Installation:
 
-1-
+    - 1-
 
-    git clone https://github.com/BiLLY-J03l/hash-cracker.git
+            git clone https://github.com/BiLLY-J03l/hash-cracker.git
 
-2-
+    - 2-
+        
+            chmod +x hash_cracker.py
 
-    chmod +x hash_cracker.py
+    - 3-
 
-3-
-
-    ./hash_cracker.py
+            ./hash_cracker.py
