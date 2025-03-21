@@ -1,9 +1,9 @@
 # hash-cracker
 Hash cracker with python3
 
--A hash cracker that takes a hash, a hash type and a wordlist and attempts to crack it.
+- A hash cracker that takes a hash, a hash type and a wordlist and attempts to crack it.
 
--Installation:
+- Installation:
 
 1-
 
