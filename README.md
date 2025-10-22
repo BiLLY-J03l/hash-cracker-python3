@@ -16,3 +16,21 @@ Hash cracker with python3
     - 3-
 
             ./hash_cracker.py
+
+## Build Docker Image:
+
+-
+
+          docker build -t hash-cracker .
+
+## Download Docker Image:
+
+-
+
+        docker pull billyj03l/hash-cracker
+
+## Run the container:
+
+- Example
+
+         docker run -v "$(pwd):/app" hash-cracker -t "md5" -f "63a9f0ea7bb98050796b649e85481845" -w "/app/10k-most-common.txt"
